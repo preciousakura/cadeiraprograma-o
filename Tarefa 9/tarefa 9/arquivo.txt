@@ -1,0 +1,30 @@
+260001
+Antonio
+85
+87655678
+C
+260002
+Raimundo
+88
+32255225
+F
+26000
+Gertrude
+85
+86094553
+C
+25999
+Isabel Cristina
+85
+86094553
+C
+25998
+Matheus Ribeiro
+85
+85459572
+C
+25997
+Antonieta
+85
+34793494
+T
